@@ -62,3 +62,7 @@ nav a:active {
 #about img {
   max-height: 50%;
 }
+
+ h1{
+  margin-top: 50px;
+ }
